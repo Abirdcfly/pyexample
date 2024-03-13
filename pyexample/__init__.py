@@ -1,5 +1,5 @@
 """
-pyexample.
+abirdcfly-pyexample.
 
 An example python library.
 """

@@ -1,14 +1,14 @@
 from setuptools import setup
 
 setup(
-    name='pyexample',
+    name='abirdcfly-pyexample',
     version='0.1.1',    
     description='A example Python package',
     url='https://github.com/Abirdcfly/pyexample',
     author='Stephen Hudson',
     author_email='shudson@anl.gov',    
     license='BSD 2-clause',
-    packages=['pyexample'],
+    packages=['abirdcfly-pyexample'],
     install_requires=['mpi4py>=2.0',
                       'numpy',
                       ],
