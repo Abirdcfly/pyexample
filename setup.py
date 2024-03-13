@@ -2,9 +2,9 @@ from setuptools import setup
 
 setup(
     name='pyexample',
-    version='0.1.0',    
+    version='0.1.1',    
     description='A example Python package',
-    url='https://github.com/shuds13/pyexample',
+    url='https://github.com/Abirdcfly/pyexample',
     author='Stephen Hudson',
     author_email='shudson@anl.gov',    
     license='BSD 2-clause',
